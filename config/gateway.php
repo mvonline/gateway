@@ -127,4 +127,5 @@ return [
     // Tables names
     //--------------------------------
     'table'    => 'gateway_transactions',
+    'config_table'    => 'gateway_configs',
 ];
